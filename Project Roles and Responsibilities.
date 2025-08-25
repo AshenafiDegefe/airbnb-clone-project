@@ -1,0 +1,23 @@
+Project Manager
+A Project Manager is the linchpin of a project, responsible for its overall success. They plan, execute, and monitor the project, ensuring it stays on track, on budget, and meets its objectives. Their primary responsibilities include setting project goals, managing timelines, allocating resources, and communicating with all stakeholders. A good Project Manager anticipates and mitigates risks, ensuring a smooth workflow and successful delivery.
+
+Frontend Developer
+Frontend Developers are responsible for the user-facing part of a web application. They create everything a user sees and interacts with in their browser, like buttons, forms, and layouts. Their key responsibilities include building responsive user interfaces using languages such as HTML, CSS, and JavaScript, as well as working closely with designers to translate visual concepts into functional code. They ensure the application is accessible, performant, and provides a great user experience.
+
+Backend Developer
+Backend Developers build and maintain the server-side logic and databases that power the application. They are the unseen force behind the scenes. Their responsibilities include writing server-side code, managing databases, building APIs, and implementing security protocols. They ensure the application's data is stored, retrieved, and processed efficiently, securely, and reliably.
+
+Designer
+Designers focus on the aesthetic and functional aspects of the product from a user's perspective. They create the visual layout, user flow, and overall look and feel of the application. Their key responsibilities include conducting user research, creating wireframes and prototypes, and designing mockups and visual assets. They ensure the product is intuitive, easy to use, and visually appealing, directly impacting user satisfaction.
+
+QA/Tester
+QA/Testers (Quality Assurance) are responsible for ensuring the product is free of defects and meets all specified requirements. They act as the final checkpoint before a product is released. Their responsibilities include creating and executing test plans, identifying and reporting bugs, and verifying that fixes are implemented correctly. They contribute to the project’s success by guaranteeing a high-quality, reliable, and stable product.
+
+DevOps Engineer
+A DevOps Engineer bridges the gap between software development and IT operations. They streamline the software development lifecycle, from coding to deployment. Their key responsibilities include setting up and maintaining continuous integration and continuous delivery (CI/CD) pipelines, managing server infrastructure, and automating deployment processes. They ensure the development and operational processes are efficient, secure, and reliable, allowing for faster and more frequent releases.
+
+Product Owner
+A Product Owner is the voice of the customer and the key decision-maker regarding the product's features and functionality. They are responsible for defining the product vision and prioritizing the backlog of tasks for the development team. Their key responsibilities include creating user stories, managing the product backlog, and working with stakeholders to ensure the product meets business and user needs. The Product Owner ensures the team builds the right product that delivers maximum value.
+
+Scrum Master
+A Scrum Master is a facilitator and coach for the development team in an agile environment. They ensure the team follows Scrum principles and practices effectively. Their responsibilities include organizing meetings (like daily stand-ups), removing impediments that block the team's progress, and coaching the team on self-organization and cross-functionality. The Scrum Master's main goal is to help the team work as efficiently as possible and improve their processes.
